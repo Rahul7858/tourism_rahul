@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tourism_rahul/static/css/main.dafb7008.css",
+    "main.js": "/tourism_rahul/static/js/main.4a3ce515.js",
+    "index.html": "/tourism_rahul/index.html",
+    "main.dafb7008.css.map": "/tourism_rahul/static/css/main.dafb7008.css.map",
+    "main.4a3ce515.js.map": "/tourism_rahul/static/js/main.4a3ce515.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dafb7008.css",
+    "static/js/main.4a3ce515.js"
+  ]
+}
